@@ -52,7 +52,7 @@ Note: Some class confusion is observed due to class imbalance and visual similar
 Precision improves with higher confidence thresholds, indicating reliable predictions when the model is confident.
 
 ### Sample Prediction Output
-![Prediction Output](M1-Predicted OP1.jpg)
+![Prediction Output](M1-Predicte OP1.jpg)
 
 ---
 
