@@ -74,7 +74,12 @@ All three models were evaluated on identical ICU video inputs for fair compariso
 ---
 
 ## Getting Started
-
+```bash
+git clone https://github.com/VatsalaMisra/TeleICU.git
+cd TeleICU
+pip install ultralytics opencv-python numpy pandas matplotlib jupyter
+jupyter notebook "MODEL1 Code.ipynb"
+```
 
 
 ---
